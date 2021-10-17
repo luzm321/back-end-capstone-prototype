@@ -1,6 +1,7 @@
 # Back-End Capstone Prototype
 
 ### (to be served on port 5000)
+## This prototype needs to be served along with the proxy server (to be served on port 8000: node server.js -p 8000) and json server database (json-server -p 3000 -w db.json).
 
 # Getting Started with Create React App
 
